@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491615711 source:c:\users\almir\desktop\tiktakto\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+
